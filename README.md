@@ -1,17 +1,21 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=apjames93&show_icons=true&theme=tokyonight&count_private=true" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=apjames93&show_icons=true&theme=tokyonight&count_private=true&layout=compact" />
+![Alex James Siftware Engineer](heroHeader.png)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mui-storyblok&repo=mui-storyblok&show_icons=true&theme=tokyonight&count_private=true&layout=compact" />
+> I consider myself to be a generalist. I enjoy working in a full stack software and devops environment. I am not afraid of a challenge and am interested in all things programming. I am experienced with all steps of the development cycle for dynamic web apps. I enjoy consistently learning and challenging myself.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mui-storyblok&repo=mui-storyblok&show_icons=true&theme=tokyonight&count_private=true&layout=compact" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mui-storyblok&repo=mui-theme-server&show_icons=true&theme=tokyonight&count_private=true&layout=compact" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=apjames93&repo=wre-code-challenge&show_icons=true&theme=tokyonight" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=apjames93&repo=rff-wrapper&show_icons=true&theme=tokyonight" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=apjames93&repo=brick-breaker-game&show_icons=true&theme=tokyonight" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=apjames93&repo=BullsAndCows&show_icons=true&theme=tokyonight" />
+<div style="display: flex; align-items: center; justify-content: center;" >
+  <div style="margin: 10px;">
+    <img
+    style="height: 20vh"
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=apjames93&show_icons=true&theme=tokyonight&count_private=true" />
+  </div>
+  
+ <div style="margin: 10px;">
+  <img
+    style="height: 20vh"
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=apjames93&show_icons=true&theme=tokyonight&count_private=true&layout=compact"
+    />
+  </div>
+</div>
